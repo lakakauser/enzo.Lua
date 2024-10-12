@@ -1,6 +1,6 @@
 local Tabela = {
 	PlayerPermission = {
-		["oibr1sa"] = {Tier = 2000},
+		["Oibr1sa"] = {Tier = 2000},
 		["DanielWINCHEST3R"] = 			{Tier = 2000},
 		["felipeofc98"] = 				{Tier = 2000},
 		["AntarisOpp"] = 				{Tier = 2000},
@@ -16,8 +16,8 @@ local Tabela = {
 		["DIO"]	=					{Locked = {2582436510}},
 		["Madara"]	=				{Locked = {2582436510}},
 		["Koku"]	=				{Locked = {785068132,327518760}},
-		["Yori"]	=				{Permission = {36651812,3108673472,1706462376,2987691941}},
-		["Meliodas"]	=				{Permission = {629259254,629259254,785068132,3108673472}},
+		["Yori"]	=				{Permission = {2582436510,3108673472,1706462376,2987691941}},
+		["Meliodas"]	=				{Permission = {2582436510,629259254,785068132,3108673472}},
 		["Goku"]	=				{Locked = {785068132}},
 		["TOP"]	=					{Locked = {785068132}},
 		["Giorno"] = 					{Tier = 1050,Permission = {36651812,785068132,3108673472,834610807}},
