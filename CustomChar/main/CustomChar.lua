@@ -1,7 +1,8 @@
 local Tabela = {
 	PlayerPermission = {
 		["Oibr1sa"] = {Tier = 2000},
-		["DanielWINCHEST3R"] = 			{Tier = 2000},
+		["DanielWINCHEST3R"] = 	   		{Tier = 2000},
+		["kbhjfjchhkv"] =                               {Tier = 1050},
 		["felipeofc98"] = 				{Tier = 2000},
 		["AntarisOpp"] = 				{Tier = 2000},
 		["TROPA_TUDO"] = 				{Tier = 2000},
@@ -13,7 +14,7 @@ local Tabela = {
 	
 	CharacterTier = {
 		["Enrico"] = 					{Tier = 1,Permission = {2582436510}},
-		["DIO"]	=					{Permission = {2582436510}},
+		["DIO"]	=					{Permission = {2582436510,1876933667}},
 		["Madara"]	=				{Permission = {2582436510}},
 		["Koku"]	=				{Permission = {2582436510}},
 		["Yori"]	=				{Permission = {2582436510}},
