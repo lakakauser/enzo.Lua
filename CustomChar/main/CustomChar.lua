@@ -12,19 +12,19 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Tier = 1,Permission = {2582436510,4035850120,1706462376}},
+		["Enrico"] = 					{Tier = 1,Permission = {2582436510}},
 		["DIO"]	=					{Permission = {2582436510}},
 		["Madara"]	=				{Permission = {2582436510}},
-		["Koku"]	=				{Permission = {785068132,327518760}},
-		["Yori"]	=				{Permission = {2582436510,3108673472,1706462376,2987691941}},
-		["Meliodas"]	=				{Permission = {2582436510,629259254,785068132,3108673472}},
-		["Goku"]	=				{Permission = {785068132}},
-		["TOP"]	=					{Permission = {785068132}},
-		["Giorno"] = 					{Tier = 1050,Permission = {36651812,785068132,3108673472,834610807}},
-		["Hakaishin"] = 				{Permission = {36651812,128677359,785068132,629259254}},
-		["Boss"] = 					{Permission = {785068132,36651812,4035850120}},
-		["JP6"] = 					{Tier = 1,Permission = {1175114342,2908376678,1706565385,3108673472,3162059849}},
-		["Gojo"] = 					{Tier = 1,Permission = {2582436510,2963030044}}, -- perm temp
+		["Koku"]	=				{Permission = {2582436510}},
+		["Yori"]	=				{Permission = {2582436510}},
+		["Meliodas"]	=				{Permission = {2582436510}},
+		["Goku"]	=				{Permission = {2582436510}},
+		["TOP"]	=					{Permission = {2582436510}},
+		["Giorno"] = 					{Tier = 1050,Permission = {2582436510}},
+		["Hakaishin"] = 				{Permission = {2582436510}},
+		["Boss"] = 					{Permission = {2582436510}},
+		["JP6"] = 					{Tier = 1,Permission = {2582436510}},
+		["Gojo"] = 					{Tier = 1,Permission = {2582436510}}, -- perm temp
 	}
 
 }
