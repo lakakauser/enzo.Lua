@@ -1,6 +1,7 @@
 local Tabela = {
 	PlayerPermission = {
 		["Oibr1sa"] = {Tier = 2000},
+		["Natanael_Au"] = {Tier = 1},
 		["Guga_442z"] = {Tier = 2000},
 		["xXWhizyXx"] =                                 {Tier = 2000},
 		["DanielWINCHEST3R"] = 	   		{Tier = 2000},
@@ -19,7 +20,7 @@ local Tabela = {
 		["Sasuke"] = 					{Tier = 1050,Permission = {2582436510}},
 		["Muzan"] = 					{Tier = 1050,Permission = {2582436510}},
 		["Eren"] = 					{Tier = 1050,Permission = {2582436510}},
-		["DIO"]	=					{Permission = {2582436510,1876933667}},
+		["DIO"]	=					{Permission = {2582436510,1876933667,2955723203}},
 		["Madara"]	=				{Permission = {2582436510}},
 		["Koku"]	=				{Permission = {2582436510}},
 		["Yori"]	=				{Permission = {2582436510}},
