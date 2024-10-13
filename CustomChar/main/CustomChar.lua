@@ -23,7 +23,7 @@ local Tabela = {
 		["DIO"]	=					{Permission = {2582436510,1876933667,2955723203}},
 		["Madara"]	=				{Permission = {2582436510}},
 		["Koku"]	=				{Permission = {2582436510}},
-		["Yori"]	=				{Permission = {2582436510}},
+		["Yori"]	=				{Permission = {2582436510,2955723203}},
 		["Meliodas"]	=				{Permission = {2582436510}},
 		["Goku"]	=				{Permission = {2582436510,3938833260}},
 		["TOP"]	=					{Permission = {2582436510}},
