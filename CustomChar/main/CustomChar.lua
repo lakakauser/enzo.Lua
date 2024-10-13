@@ -1,9 +1,10 @@
 local Tabela = {
 	PlayerPermission = {
 		["Oibr1sa"] = {Tier = 2000},
+		["Guga_442z"] = {Tier = 2000},
 		["xXWhizyXx"] =                                 {Tier = 2000},
 		["DanielWINCHEST3R"] = 	   		{Tier = 2000},
-		["kbhjfjchhkv"] =                               {Tier = 1050},
+		["kbhjfjchhkv"] =                               {Tier = 1},
 		["felipeofc98"] = 				{Tier = 2000},
 		["AntarisOpp"] = 				{Tier = 2000},
 		["TROPA_TUDO"] = 				{Tier = 2000},
@@ -14,10 +15,10 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Tier = 1,Permission = {2582436510}},
-		["Sasuke"] = 					{Tier = 1,Permission = {2582436510}},
-		["Muzan"] = 					{Tier = 1,Permission = {2582436510}},
-		["Eren"] = 					{Tier = 1,Permission = {2582436510}},
+		["Enrico"] = 					{Tier = 1050,Permission = {2582436510}},
+		["Sasuke"] = 					{Tier = 1050,Permission = {2582436510}},
+		["Muzan"] = 					{Tier = 1050,Permission = {2582436510}},
+		["Eren"] = 					{Tier = 1050,Permission = {2582436510}},
 		["DIO"]	=					{Permission = {2582436510,1876933667}},
 		["Madara"]	=				{Permission = {2582436510}},
 		["Koku"]	=				{Permission = {2582436510}},
@@ -28,7 +29,7 @@ local Tabela = {
 		["Giorno"] = 					{Tier = 1050,Permission = {2582436510}},
 		["Hakaishin"] = 				{Permission = {2582436510}},
 		["Boss"] = 					{Permission = {2582436510}},
-		["JP6"] = 					{Tier = 1,Permission = {2582436510}},
+		["JP6"] = 					{Tier = 1050,Permission = {2582436510}},
 		["Gojo"] = 					{Tier = 1,Permission = {2582436510}}, -- perm temp
 	}
 
