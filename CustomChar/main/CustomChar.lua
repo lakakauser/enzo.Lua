@@ -1,6 +1,6 @@
 local Tabela = {
 	PlayerPermission = {
-		["Oibr1sa"] = {Tier = 2000},
+		["oibr1sa"] = {Tier = 2000},
 		["Natanael_Au"] = {Tier = 1},
 		["Guga_442z"] = {Tier = 2000},
 		["xXWhizyXx"] =                                 {Tier = 2000},
@@ -8,7 +8,6 @@ local Tabela = {
 		["kbhjfjchhkv"] =                               {Tier = 1},
 		["felipeofc98"] = 				{Tier = 2000},
 		["AntarisOpp"] = 				{Tier = 2000},
-		["TROPA_TUDO"] = 				{Tier = 2000},
 		["P3U_EB"] = 			{Tier = 2000},
 		["bruno_jales"] = 			{Tier = 2000},
 		["Toniket457"] = 			{Tier = 2000},
